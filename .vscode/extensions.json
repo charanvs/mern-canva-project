@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "kisstkondoros.vscode-gutter-preview",
+        "formulahendry.auto-close-tag",
+        "nucllear.vscode-extension-auto-import",
+        "formulahendry.auto-rename-tag",
+        "dbaeumer.vscode-eslint",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "postman.postman-for-vscode",
+        "esbenp.prettier-vscode"
+    ]
+}

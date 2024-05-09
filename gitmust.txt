@@ -1,6 +1,6 @@
 echo "# mern-canva-project" >> README.md
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/charanvs/mern-canva-project.git
@@ -10,3 +10,8 @@ git push -u origin main
 git remote add origin https://github.com/charanvs/mern-canva-project.git
 git branch -M main
 git push -u origin main
+
+https://mern-canva-project-tau.vercel.app/
+
+
+git add .
